@@ -184,8 +184,12 @@ div.b{
 }
 
 .search-form{
+<<<<<<< HEAD
 	width: 50%;
 	margin: 0px;
+=======
+	margin: 15px;
+>>>>>>> ce3e05371ac1abe8ca46dba5634902fb2eb7c617
 	border: none;
 	outline: 0;
 	position: absolute;
@@ -1413,7 +1417,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 	padding: 30px;
 	}
 .sing-up-page{
-	background-color: #ff5e3a;
+	background-color: #f8b0de;
 }	
 .sing-up-page:after{
 	content:" ";
@@ -1425,8 +1429,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 	top: 0px;
 	z-index: -1;
 	background-attachment: fixed;
-	background-image: url(../demo_img/sing-up-ba.jpg);
-	opacity: 0.2;
+	background-image: url(../img/rsz_1rsz_hin-bong-yeung-210244-unsplash.jpg);
+	opacity: 0.6;
 	}	
 .log_in_page{
 	background-color: #237f81;
