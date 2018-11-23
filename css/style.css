@@ -142,12 +142,19 @@ header a#main-category-toggler-close{
 header .dropdown {
 	margin-top: 12px;
 }
+div.b{
+	position: absolute;
+    right: 0;
+	
+	
+    } 
 
 #topmenu {
 	background-color: #87002B;
 	height: 40px;
 	border-top-left-radius: 8px;
-	border-top-right-radius: 8px
+	border-top-right-radius: 8px;
+	margin: 0 5px 0 150px;
 }
 
 #topmenu ul {
@@ -159,9 +166,8 @@ header .dropdown {
 }
 
 #logo img {
-	margin-top: 3px;
-	border-radius: 10px;
-	padding: 9px 5px;
+	margin-top: -15px;
+	
 }
 
 #logo a :hover {
@@ -174,18 +180,11 @@ header .dropdown {
 }
 
 .search-form{
-<<<<<<< HEAD
-<<<<<<< HEAD
 	width: 50%;
-=======
->>>>>>> parent of 40b42f0... Akshay homepage change
 	margin: 0px;
-=======
-	margin: 15px;
->>>>>>> ce3e05371ac1abe8ca46dba5634902fb2eb7c617
 	border: none;
 	outline: 0;
-	position: relative;
+	position: absolute;
 	font-family: 'Roboto', sans-serif;
 	font-size: 12px;
 	color: #adadb0;
@@ -194,6 +193,9 @@ header .dropdown {
 	padding-right: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 .cta-buttons img {
@@ -362,11 +364,12 @@ header a.user-area .thumb{
 	float: left;
 	height: 40px;
 	width: 40px;
-	margin-right: 15px;
+	margin: -15px 0 2px 0;
 	overflow: hidden;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
-	border-radius: 4px;}
+	border-radius: 4px;
+}
 header a.user-area h2{
 	font-family: 'Roboto', sans-serif;
 	color: #dfdfdf;
@@ -700,6 +703,39 @@ header ul.account-menu li  .color-3{
 header ul.account-menu li  .color-4{
 	color: #444444;
 }
+.bigi{
+	width: 100%;
+	height:450px;
+
+	border: 2px solid black;
+    padding: 25px;
+    background: url(../img/samples/154261557312227290.jpg);
+    
+	background-size: 100% 100%;
+	
+	/*
+	filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
+  /* Full height */
+	
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+	position: relative;	
+	
+	
+}
+
+.bigi h1{
+	color:red;
+}
+
+
+
 #main-category{
 	background-color: #E3E2DF;
 	-webkit-box-shadow: -1px 2px 26px -6px rgba(0,0,0,0.37);
