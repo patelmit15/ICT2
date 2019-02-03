@@ -1,0 +1,8 @@
+[23-Dec-2018 07:06:20 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/artiders/public_html/test.php on line 3
+[23-Dec-2018 07:06:20 UTC] PHP Warning:  shell_exec() has been disabled for security reasons in /home/artiders/public_html/test.php on line 4
+[23-Dec-2018 07:07:06 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/artiders/public_html/test.php on line 4
+[23-Dec-2018 07:07:06 UTC] PHP Warning:  shell_exec() has been disabled for security reasons in /home/artiders/public_html/test.php on line 5
+[23-Dec-2018 07:11:26 UTC] PHP Warning:  symlink() has been disabled for security reasons in /home/artiders/public_html/test.php on line 5
+[23-Dec-2018 07:13:16 UTC] PHP Warning:  symlink() has been disabled for security reasons in /home/artiders/public_html/test.php on line 5
+[23-Dec-2018 07:13:57 UTC] PHP Warning:  symlink() has been disabled for security reasons in /home/artiders/public_html/test.php on line 5
+[04-Jan-2019 04:25:29 UTC] PHP Warning:  POST Content-Length of 46200974 bytes exceeds the limit of 33554432 bytes in Unknown on line 0
